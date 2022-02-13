@@ -1,0 +1,6 @@
+This is my first git repo
+I am from Cameroon
+But currently lives in US
+With my family
+I am studying DevOps 
+To become a DevOps Engineer
